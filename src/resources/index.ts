@@ -20,6 +20,7 @@ import * as TunnelOfLove from "./2017/TunnelOfLove";
 import * as Latte from "./2018/LatteLoversMembersMug";
 import * as SongBoom from "./2018/SongBoom";
 import * as BeachComb from "./2019/BeachComb";
+import * as DoctorBag from "./2019/DoctorBag";
 import * as Snapper from "./2019/Snapper";
 import * as Guzzlr from "./2020/Guzzlr";
 import * as RetroCape from "./2020/RetroCape";
@@ -40,6 +41,7 @@ export {
   CrystalBall,
   DaylightShavings,
   DNALab,
+  DoctorBag,
   FloristFriar,
   GreyGoose,
   Guzzlr,
